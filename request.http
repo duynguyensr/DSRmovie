@@ -1,0 +1,66 @@
+GET http://localhost:5000/api/home/hot
+
+###
+GET http://localhost:5000/api/home/all
+
+###
+GET http://localhost:5000/api/home/tvshow
+
+###
+GET https://razorphimzz.com/phimbo/banh-xe-thoi-gian
+
+###
+GET http://localhost:5000/api/home/movie
+
+
+###
+GET http://localhost:5000/api/home/hotweek
+
+###
+GET http://localhost:5000/api/home/topImdb
+
+###
+GET http://localhost:5000/api/trending/page/1
+
+
+###
+Get http://localhost:5000/api/ratings/page/17/
+
+###
+Get http://localhost:5000/api/category/movie/trending/page/16
+
+###
+POST http://localhost:5000/api/search/
+Content-Type: application/json
+
+{
+    "searchKey" : ""
+}
+
+
+
+###
+GET http://localhost:5000/api/watch/movie/di-tim-mien-dat-hua
+
+###
+GET http://localhost:5000/api/watch/movie/61d67ed25fe37f3f2c8e2964
+
+###
+GET https://razorphimzz.com/xemphimbo/thien-than-khat-mau-phan-1-tap-1
+
+###
+brooklyn-nine-nine/
+
+
+###
+GET http://localhost:5000/api/watch/doi-song-nguc-tu
+###
+POST http://localhost:5000/api/movie/tvshow
+Content-Type: application/json
+
+
+###
+
+GET https://razorphimzz.com/phimbo/thay-iglesias/ 
+###
+GET  http://localhost:5000/api/watch/testPup/exam

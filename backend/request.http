@@ -1,0 +1,266 @@
+GET http://localhost:5000/api/home/hot
+
+###
+GET http://localhost:5000/api/home/all
+
+###
+GET http://localhost:5000/api/home/tvshow
+
+###
+GET https://razorphimzz.com/phimbo/banh-xe-thoi-gian
+
+###
+GET http://localhost:5000/api/home/movie
+
+
+###
+GET http://localhost:5000/api/home/hotweek
+
+###
+GET http://localhost:5000/api/home/topImdb
+
+###
+GET http://localhost:5000/api/trending/page/1
+
+
+###
+Get http://localhost:5000/api/ratings/page/2/
+
+###
+Get http://localhost:5000/api/category/drama/page/1
+
+###
+POST http://localhost:5000/api/search/
+Content-Type: application/json
+
+{
+    "searchKey" : ""
+}
+
+
+
+###
+GET http://localhost:5000/api/watch/movie/di-tim-mien-dat-hua
+
+###
+GET http://localhost:5000/api/watch/movie/61d67ed25fe37f3f2c8e2964
+
+###
+GET https://razorphimzz.com/xemphimbo/thien-than-khat-mau-phan-1-tap-1
+
+###
+brooklyn-nine-nine/
+
+###
+GET http://localhost:5000/api/watch/test1/testEx
+###
+GET http://localhost:5000/api/watch/dien-loan
+###
+POST http://localhost:5000/api/movie/
+Content-Type: application/json
+
+{
+      "thumbnail": "https://razorphimzz.com/wp-content/uploads/2020/11/rRLYX4RZIyloHSJwvZKAhphAjiB-185x278.jpg",
+      "linkWatch": "https://short.ink/QWjB3RXDC",
+      "title": "Ngọn Đồi Hoa Hồng Anh",
+      "time": "Jul. 16, 2011",
+      "category": ["animation"]
+    }
+###
+{
+      "thumbnail": "https://razorphimzz.com/wp-content/uploads/2019/10/2bXbqYdUdNVa8VIWXVfclP2ICtT-185x278.jpg",
+      "linkWatch": "",
+      "title": "Vua Sư Tử – The Lion King",
+      "time": "Jul. 12, 2019",
+      "category": []
+    },
+    {
+      "thumbnail": "https://razorphimzz.com/wp-content/uploads/2019/09/w9kR8qbmQ01HwnvK4alvnQ2ca0L-185x278.jpg",
+      "linkWatch": "",
+      "title": "Câu Chuyện Đồ Chơi 4 – Toy Story 4",
+      "time": "Jun. 19, 2019",
+      "category": []
+    },
+    {
+      "thumbnail": "https://razorphimzz.com/wp-content/uploads/2019/08/q3mKnSkzp1doIsCye6ap4KIUAbu-185x278.jpg",
+      "linkWatch": "",
+      "title": "Đẳng Cấp Thú Cưng 2",
+      "time": "May. 24, 2019",
+      "category": []
+    },
+    {
+      "thumbnail": "https://razorphimzz.com/wp-content/uploads/2021/01/wrCVHdkBlBWdJUZPvnJWcBRuhSY-185x278.jpg",
+      "linkWatch": "",
+      "title": "Thanh Gươm Diệt Quỷ",
+      "time": "Apr. 06, 2019",
+      "category": []
+    },
+    {
+      "thumbnail": "https://razorphimzz.com/wp-content/uploads/2020/01/9F4yd1lnTKFHZkme1nuPWmH1hbl-185x278.jpg",
+      "linkWatch": "",
+      "title": "Liên Minh Công Lý Đối Đầu Fatal Five",
+      "time": "Mar. 30, 2019",
+      "category": []
+    },
+    {
+      "thumbnail": "https://razorphimzz.com/wp-content/uploads/2019/03/toAQfYIpJPW6nnHGB7ORywoPz98-185x278.jpg",
+      "linkWatch": "",
+      "title": "Love, Death & Robots",
+      "time": "Mar. 15, 2019",
+      "category": []
+    },
+    {
+      "thumbnail": "https://razorphimzz.com/wp-content/uploads/2019/10/9nxs7YlmGERa9dQbRPZXopfcp51-185x278.jpg",
+      "linkWatch": "",
+      "title": "Bạch Xà",
+      "time": "Jan. 11, 2019",
+      "category": []
+    },
+    {
+      "thumbnail": "https://razorphimzz.com/wp-content/uploads/2019/03/xvx4Yhf0DVH8G4LzNISpMfFBDy2-185x278.jpg",
+      "linkWatch": "",
+      "title": "Bí Kíp Luyện Rồng: Vùng Đất Bí Ẩn",
+      "time": "Jan. 03, 2019",
+      "category": []
+    },
+    {
+      "thumbnail": "https://razorphimzz.com/wp-content/uploads/2019/02/iiZZdoQBEYBv6id8su7ImL0oCbD-185x278.jpg",
+      "linkWatch": "",
+      "title": "Người Nhện: Vũ Trụ Mới",
+      "time": "Dec. 07, 2018",
+      "category": []
+    },
+    {
+      "thumbnail": "https://razorphimzz.com/wp-content/uploads/2019/02/lDroo0e4Pr33c1Y4LWr7f4IE8f2-185x278.jpg",
+      "linkWatch": "",
+      "title": "Ráp-Phờ Đập Phá 2: Phá Đảo Thế Giới Ảo",
+      "time": "Nov. 20, 2018",
+      "category": []
+    },
+    {
+      "thumbnail": "https://razorphimzz.com/wp-content/uploads/2018/06/hL9Uz2vq93vi20oxZEBBaSs4w8U-185x278.jpg",
+      "linkWatch": "",
+      "title": "Gia Đình Siêu Nhân 2",
+      "time": "Jun. 14, 2018",
+      "category": []
+    },
+    {
+      "thumbnail": "https://razorphimzz.com/wp-content/uploads/2018/12/zfaiO7QgpcvR8XDOMokWLRfKeTE-185x278.jpg",
+      "linkWatch": "",
+      "title": "Chân Nhỏ, Bạn Ở Đâu?",
+      "time": "VIỆT SUB",
+      "category": []
+    },
+    {
+      "thumbnail": "https://razorphimzz.com/wp-content/uploads/2021/02/1WynayCqKRzrl4cFZR8NOfiDwd6-185x278.jpg",
+      "linkWatch": "",
+      "title": "Tỉnh Mộng",
+      "time": "Aug. 17, 2018",
+      "category": []
+    },
+    {
+      "thumbnail": "https://razorphimzz.com/wp-content/uploads/2021/01/74OJEbRx1swuh5EuT7VNWxyWTZd-185x278.jpg",
+      "linkWatch": "",
+      "title": "Thiên Thần Chết Chóc",
+      "time": "Jul. 06, 2018",
+      "category": []
+    },
+    {
+      "thumbnail": "https://razorphimzz.com/wp-content/uploads/2020/02/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ-185x278.jpg",
+      "linkWatch": "",
+      "title": "Đảo Của Những Chú Chó",
+      "time": "Mar. 23, 2018",
+      "category": []
+    },
+    {
+      "thumbnail": "https://razorphimzz.com/wp-content/uploads/2020/12/1Zio9w1tAd3r5Gu4d9AzTSx2hnT-185x278.jpg",
+      "linkWatch": "",
+      "title": "Nhiều Chuyện",
+      "time": "Sep. 29, 2017",
+      "category": []
+    },
+    {
+      "thumbnail": "https://razorphimzz.com/wp-content/uploads/2020/02/eSVtBB2PVFbQiFWC7CQi3EjIZnn-185x278.jpg",
+      "linkWatch": "",
+      "title": "Đấu Trường Âm Nhạc",
+      "time": "Nov. 23, 2016",
+      "category": []
+    },
+    {
+      "thumbnail": "https://razorphimzz.com/wp-content/uploads/2017/06/w90cORtNWQAd2k93aFlIBbpQYTC-185x278.jpg",
+      "linkWatch": "",
+      "title": "Đại Tiệc Xúc Xích",
+      "time": "Jul. 11, 2016",
+      "category": []
+    },
+    {
+      "thumbnail": "https://razorphimzz.com/wp-content/uploads/2017/06/gRi7lTBBiRBhn9aJID5MdldcJEJ-185x278.jpg",
+      "linkWatch": "",
+      "title": "Kỷ Băng Hà 5: Trời Sập",
+      "time": "Jun. 23, 2016",
+      "category": []
+    },
+    {
+      "thumbnail": "https://razorphimzz.com/wp-content/uploads/2020/07/pB9L0jAnEQLMKgexqCEocEW8TA-185x278.jpg",
+      "linkWatch": "",
+      "title": "BoJack Horseman",
+      "time": "Aug. 22, 2014",
+      "category": []
+    },
+    ,
+    {
+      "thumbnail": "https://razorphimzz.com/wp-content/uploads/2019/03/lRjOR4uclMQijUav4OjeZprlehu-185x278.jpg",
+      "linkWatch": "",
+      "title": "Bí Kíp Luyện Rồng 2",
+      "time": "Jun. 09, 2014",
+      "category": []
+    },
+    {
+      "thumbnail": "https://razorphimzz.com/wp-content/uploads/2020/07/8kOWDBK6XlPUzckuHDo3wwVRFwt-185x278.jpg",
+      "linkWatch": "",
+      "title": "Rick and Morty",
+      "time": "Dec. 02, 2013",
+      "category": []
+    },
+    {
+      "thumbnail": "https://razorphimzz.com/wp-content/uploads/2020/01/jIjdFXKUNtdf1bwqMrhearpyjMj-185x278.jpg",
+      "linkWatch": "",
+      "title": "Nữ Hoàng Băng Giá",
+      "time": "Nov. 27, 2013",
+      "category": []
+    },
+    ,
+    {
+      "thumbnail": "https://razorphimzz.com/wp-content/uploads/2020/11/jfwSexzlIzaOgxP9A8bTA6t8YYb-185x278.jpg",
+      "linkWatch": "",
+      "title": "Gió Nổi",
+      "time": "Jul. 20, 2013",
+      "category": []
+    },
+    {
+      "thumbnail": "https://razorphimzz.com/wp-content/uploads/2021/02/tN4bjzZ3ePY57hpCTFk0Kc3oXAw-185x278.jpg",
+      "linkWatch": "",
+      "title": "Tay Đua Siêu Tốc",
+      "time": "Jul. 11, 2013",
+      "category": []
+    },
+    {
+      "thumbnail": "https://razorphimzz.com/wp-content/uploads/2021/01/aiy35Evcofzl7hASZZvsFgltHTX-185x278.jpg",
+      "linkWatch": "",
+      "title": "Đại Chiến Titan",
+      "time": "Apr. 07, 2013",
+      "category": []
+    },
+    {
+      "thumbnail": "https://razorphimzz.com/wp-content/uploads/2021/02/seCbcjdZYUl8SRKjeWfyi2ngzFj-185x278.jpg",
+      "linkWatch": "",
+      "title": "Ngày Tận Thế Của Trái Đất",
+      "time": "Feb. 28, 2012",
+      "category": []
+    },
+    
+###
+
+GET https://razorphimzz.com/phimbo/thay-iglesias/ 
+###
+GET  http://localhost:5000/api/watch/testPup/exam
